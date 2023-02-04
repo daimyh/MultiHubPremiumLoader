@@ -22,7 +22,7 @@ local Window = Rayfield:CreateWindow({
 		FileName = "PSXMultiHub",
 		SaveKey = false,
 		GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-		Key = "Beta"
+		Key = "Prem-5426-5245-2524"
 	}
 })
 Rayfield:Notify({
